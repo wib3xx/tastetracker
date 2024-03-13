@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551987101051",
+    "project_id": "tastetracker-8112e",
+    "storage_bucket": "tastetracker-8112e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551987101051:android:1b52f1a9192a66fbd091de",
+        "android_client_info": {
+          "package_name": "com.tastetracker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75-wKCaSe6v9sige3jcPFlGfVN7g2TyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
